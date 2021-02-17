@@ -1,0 +1,6 @@
+{
+  "mongoURI": "mongodb+srv://carmi123:carmi123@cluster0.ykuob.mongodb.net/<dbname>?retryWrites=true&w=majority",
+  "jwtSecretKey": "mysecretkey",
+  "githubClientId": "851d63064fd153beca2f",
+  "githubSecret": "b3b85d42d06524c74d0afb835bf1cfcf7268d937"
+}
